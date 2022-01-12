@@ -24,8 +24,8 @@
 # third field is email address for bug reports
 # fourth field is the name of the package made by make dist, excluding .tar.gz
 # fifth field is the project web address
-AC_INIT([giellakeyboards-esu], [20130628], [feedback@divvun.no],
-        [giellakeyboards-esu], [http://divvun.no])
+AC_INIT([giellaltkeyboards-esu], [20130628], [feedback@divvun.no],
+        [giellaltkeyboards-esu], [http://divvun.no])
 # AC_REVISION is used to get SVN revision into bug reports
 AC_REVISION([$Revision$])
 # These configuration dirs hide some extra cruft
