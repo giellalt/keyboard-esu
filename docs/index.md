@@ -1,10 +1,9 @@
 # Documentation for the Central Alaskan Yup'ik keyboards
 
+## Layouts
 
-# Layouts
+- [Layout overview](layout.md)
 
--   [Layout overview](layout.html)
-
-# Other information
+## Other information
 
 Add text and links as necessary.
