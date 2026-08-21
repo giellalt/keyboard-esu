@@ -2,7 +2,7 @@
 
 ## Layouts
 
-<iframe src="https://keyboard.giellalt.org/embed?kbd=esu&interactive=false"></iframe>
+<iframe src="https://keyboard.giellalt.org/embed?kbd=esu&interactive=false" style="height: 430px;"></iframe>
 
 ## Other information
 
