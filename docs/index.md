@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Documentation for the Central Alaskan Yup'ik keyboards
 
 ## Layouts
